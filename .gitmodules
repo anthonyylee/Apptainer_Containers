@@ -1,0 +1,3 @@
+[submodule "turbovnc-singularity"]
+	path = turbovnc-singularity
+	url = git@github.com:tyson-swetnam/turbovnc-singularity.git
